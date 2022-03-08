@@ -42,11 +42,8 @@ Here are some ideas to get you started:
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="mariamills's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mariamills&show_icons=true&hide_border=false&title_color=#ff2f2f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamills&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
-[website]: https://mariamills.com
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
