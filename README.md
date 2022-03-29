@@ -1,4 +1,4 @@
-### Hi there, I'm Maria 👋
+# Hi there, I'm <a href="https://www.marianmills.com/" target="_blank">Maria</a> 👋
 
 <!--
 **mariamills/mariamills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -48,12 +47,8 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="mariamills's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mariamills&show_icons=true&hide_border=false&title_color=#ff2f2f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamills&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariamills&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamills&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
+</p>
 
