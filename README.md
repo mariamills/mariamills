@@ -1,4 +1,4 @@
-# Hi there, I'm <a href="https://www.marianmills.com/" target="_blank">Maria</a> 👋
+# Hi there, I'm <a href="https://www.mariamills.org/" target="_blank">Maria</a> 👋
 
 <!--
 **mariamills/mariamills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
