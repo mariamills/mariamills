@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am a aspiring full-stack software engineer.
+### I am a aspiring full-stack engineer.
 
 ---
 
