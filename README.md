@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### I am a Software Engineer
 
+> _Sometimes it is the people no one imagines anything of, __who do the things that no one can imagine__._
+
 ---
 
 ## Tools and Languages:
